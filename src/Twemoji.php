@@ -1,6 +1,6 @@
 <?php
 
-namespace JSila\Twemoji;
+namespace ADT\Twemoji;
 
 use Exception;
 

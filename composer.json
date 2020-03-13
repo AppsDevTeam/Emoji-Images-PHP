@@ -8,6 +8,11 @@
     "require-dev": {
         "phpspec/phpspec": "~2.1"
     },
+    "autoload": {
+        "psr-4": {
+            "ADT\\Twemoji\\": "src/"
+        }
+    },
     "license": "MIT",
     "authors": [
         {
